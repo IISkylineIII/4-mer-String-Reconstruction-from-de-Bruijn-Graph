@@ -44,7 +44,7 @@ def construct_linear_string(kmers):
 ```
 
     
-#Applications
+# Applications
 
 
 * Genome assembly and sequence reconstruction.
